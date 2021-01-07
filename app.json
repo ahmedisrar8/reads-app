@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "iReads",
+    "slug": "reads",
+    "privacy": "public",
+    "sdkVersion": "37.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#26306E"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.reads.reads",
+      "buildNumber": "12"
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "package": "com.reads.reads",
+      "versionCode": 14
+    }
+  }
+}

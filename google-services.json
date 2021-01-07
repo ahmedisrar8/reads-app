@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "417664425189",
+    "firebase_url": "https://reads-bf6bf.firebaseio.com",
+    "project_id": "reads-bf6bf",
+    "storage_bucket": "reads-bf6bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417664425189:android:0331a2fae0d51ebe",
+        "android_client_info": {
+          "package_name": "com.reads.reads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417664425189-2mt6h43lc31d2ar6823coj6q63no1ubj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvKuz9L22O0E5G3fZoNzqPpiYRinzAw40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417664425189-2mt6h43lc31d2ar6823coj6q63no1ubj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
